@@ -13,7 +13,6 @@ class Juego {
     this.sonidoDisparo = null;
     this.musicaInstrucciones = null;
     this.musicaCreditos = null;
-
     this.suelo = 330;
     this.vel = 2.5;
     this.distMax = 7500;

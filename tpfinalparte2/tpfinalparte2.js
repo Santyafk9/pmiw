@@ -1,5 +1,8 @@
-let juego;
+//https://youtu.be/iMUZuvkWeGk
 
+
+let juego;
+               
 function preload() {
   juego = new Juego();
   juego.cargarRecursos();
@@ -21,4 +24,4 @@ function mousePressed() {
 
 function keyPressed() {
   juego.keyPressed();
-}
+}  
