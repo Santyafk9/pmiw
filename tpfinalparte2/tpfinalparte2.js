@@ -1,6 +1,5 @@
 https://youtu.be/iMUZuvkWeGk
 
-
 let juego;
                
 function preload() {
